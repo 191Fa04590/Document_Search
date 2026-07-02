@@ -1,0 +1,7 @@
+streamlit
+numpy
+transformers
+langchain-huggingface
+scikit-learn
+python-dotenv
+huggingface-hub
